@@ -1,2 +1,7 @@
 streamlit
-opencv-python-headless
+numpy
+pillow
+opencv-python
+tensorflow
+mtcnn
+scikit-learn
